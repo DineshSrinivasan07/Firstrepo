@@ -1,3 +1,4 @@
+package com.std;
 
 public class StdMain {
 
